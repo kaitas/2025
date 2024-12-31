@@ -21,3 +21,6 @@ mkdocs serve
 ```
 
 https://squidfunk.github.io/mkdocs-material/publishing-your-site/
+
+https://zenn.dev/mebiusbox/articles/81d977a72cee01
+
