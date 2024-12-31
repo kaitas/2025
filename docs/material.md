@@ -1,4 +1,7 @@
-# Material for MkDocs
+# Docs for MkDocs
+
+<https://qiita.com/cleantted/items/0eff40f48abd9eea3a6c>
+
 
 Material for MkDocs は MkDocsのテーマの1つです．
 率直に言って、標準のテーマやreadthedocsもイマイチなので、テーマを自作しないのであればMaterialテーマ1択だと思います．このドキュメントではMaterialテーマを使用することを前提とします．

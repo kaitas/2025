@@ -31,7 +31,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 nav:
-  - 初期画面: index.md
+  - 白井暁彦: index.md
 #  - introduction.md
   - material.md
   - section1:
