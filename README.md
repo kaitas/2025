@@ -19,3 +19,5 @@ pip install mkdocs
 mkdocs new cleantted_action_test
 mkdocs serve
 ```
+
+https://squidfunk.github.io/mkdocs-material/publishing-your-site/
