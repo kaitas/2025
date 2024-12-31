@@ -47,6 +47,9 @@ plugins:
     lang: 'ja'
 
 extra:
+  analytics:
+    provider: google
+    property: G-DQDGMD4GSE
   alternate:
     - name: English
       link: /en/
