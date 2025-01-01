@@ -32,7 +32,10 @@ theme:
         name: Switch to light mode
 nav:
   - 白井暁彦: index.md
-#  - introduction.md
+  - research.md
+ # - Papers  - Social  - Blogs | Lab | Deck | Gallery | GitHub
+  - ようこそ: install.md
+  - books.md
   - material.md
   - section1:
       section1-1:
