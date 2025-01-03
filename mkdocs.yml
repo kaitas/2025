@@ -3,10 +3,14 @@ site_url: https://akihiko.shirai.as/2025
 copyright: "&copy; 2025 Akihiko Shirai"
 repo_url: https://github.com/kaitas/2025
 repo_name: kaitas/2025
+
+# for rss feed
+site_description: Profile of Akihiko Shirai in 2025
+
 theme:
   name: material
   font:
-    text: Noto Sans JP
+    text: Noto Sans JP #https://be-hase.com/blog/article/2022/04/blog_using_mkdocs/
     code: Inconsolata
   features:
     - content.code.annotate
@@ -30,25 +34,34 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
 nav:
   - 白井暁彦: index.md
+  - Blog: blog/index.md
   - research.md
  # - Papers  - Social  - Blogs | Lab | Deck | Gallery | GitHub
-  - ようこそ: install.md
   - books.md
   - material.md
+  - cv.md
   - section1:
-      section1-1:
-        section1-1-1:
-          sample_page.md
-      section1-2:
-        section1-2-1:
-          sample_page.md
+      section1-1: 
+        section1-1-1:           sample_page.md
+      section1-2: 
+        section1-2-1:          sample_page.md
 #  - extentions.md
 
 plugins:
   search:
     lang: 'ja'
+  blog: #https://squidfunk.github.io/mkdocs-material/plugins/blog/#config.blog_dir
+#    blog_dir: .
+    blog_toc: true
+#    post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+#    kwds:
+#    case: lower
+  tags:
+  rss:
+
 
 extra:
   analytics:
@@ -82,8 +95,8 @@ extra:
 #  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   
 extra_css:
-  - "css/extra.css"
-  - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
+  - stylesheets/extra.css # https://squidfunk.github.io/mkdocs-material/customization/#additional-css
+  - https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 
 markdown_extensions:
   - toc:

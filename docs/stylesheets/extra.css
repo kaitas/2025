@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700 !important;
+  }
+  
+  h1 {
+    color: #000 !important;
+  }
+  
+  h2 {
+    margin-top: 2.2em;
+    padding-bottom: 0.3em;
+    border-bottom: 0.02em solid #333;
+  }
+  
+  /* header logの余白調整 */
+  .md-header__title {
+    margin-left: 0 !important;
+  }
+  
+  /* navigation footerを非表示にする */
+  //.md-footer__inner.md-grid {
+  //  display: none;
+  //}
+  
+  article.md-content__inner {
+    padding-bottom: 40px;
+  }
+  

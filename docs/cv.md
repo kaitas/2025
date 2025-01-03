@@ -1,14 +1,106 @@
 ---
-comments: true
+draft: false 
 ---
+## Akihiko SHIRAI, Ph.D - CEO of AICU Inc.
+
+### Creator{Author/CEO/Researcher} of Entertainment System
+
+![Akihko SHIRAI in GREE VR Studio Laboratory](img/202111-avatars.png)
+
+AKIHIKO SHIRAI, Ph.D. (Engineering), is a creator of AI metaverse and entertainment virtual reality. He is currently the CEO of [AICU Inc.](https://corp.aicu.ai/) and an affiliate professor of Digital Hollywood University Graduate School.
+
+He studied photographic engineering and image processing. He developed "[Fantastic Phantom Slipper](https://akihiko.shirai.as/Fantastic-Phantom-Slipper.html)", which uses dynamic phantom sensation with vibro-tactile, as his first masterpiece in 1997.
+Until 2001, he worked for Canon and Criterion as a game development consultant to market RenderWare, a multi-platform graphics middleware for the game industry. He returned to academia and received his Ph.D. from the Tokyo Institute of Technology in Japan in 2004 with research on the "Tangible Playroom", an entertainment system for young children using haptics, a floor screen, and a real-time physics engine. He was an R&D researcher at NHK-ES in Japan, focusing on the next-generation TV production environment, before moving to ENSAM Presence & Innovation Laboratory in France from 2004 to 2007 to work on R&D for a virtual reality theme park development project with some significant research projects. Rapid computer vision on GPU "[GPUVision](https://youtu.be/N4WtupBoRMI?t=172)", robotic game player "[RoboGamer](https://www.youtube.com/watch?v=2vH62EEfH6E)" and "WiiMedia" projects were accepted by ACM SIGGRAPH and IEEE VR. 
+
+He worked for [National Museum of Emerging Science and Innovation (Miraikan)](https://www.miraikan.jst.go.jp/en/), Tokyo, Japan, as a science communicator and exhibition planner from 2008 to 2010. He worked in Information Media, Kanagawa Institute of Technology (KAIT) as an associate professor from 2010 to 2018. Simultaneous multiplex image systems "Scritter", "[ExPixel](https://www.youtube.com/watch?v=lOMx5F7aGEQ)" and "[ExField](https://www.youtube.com/watch?v=BrVJDMgVFqY)", manga immersive system "[Manga Generator](https://manga.style/manga-generator/)", nursery VR entertainment "[Real Baby - Real Family](https://www.youtube.com/watch?v=vqmMXMKX33M)" have been awarded by ministry, academia and game industry. Since 2018, he has been a visiting professor at Digital Hollywood University Graduate School. In June 2018, he returned to the entertainment industry as a research director to launch "[GREE VR Studio Laboratory](https://vr.gree.net/lab/)" in [REALITY, Inc.](https://reality.inc/).A family of [GREE, Inc.](https://corp.gree.net/jp/en/) that promotes a new XR metaverse industry. Conducting research to improve vTuber (Virtual YouTuber, Virtual Persona, Virtual Artist) and exploring XR live entertainment. Contributing to the development of new user experiences in XR entertainment and solutions such as "[VibeShare](https://vr.gree.net/lab/vibeshare/)", a suite of virtual live enchanting technologies for sharing non-verbal interaction in XR live entertainment. 
 
 
-# 著書 Books
+![Akihko SHIRAI in GREE VR Studio Laboratory](https://akihiko.shirai.as/img/VRStudioLab.jpg)
 
-1. [画像生成AI Stable Diffusion スタートガイド](https://j.aicu.ai/SBXL)
-1. [AIとコラボして神絵師になる 論文から読み解くStable Diffusion](https://ivtv.page.link/ap) 
-1. [白井博士の未来のゲームデザイン ―エンターテインメントシステムの科学―](http://aki.shirai.as/entsys/)
-1. [WiiRemote プログラミング](http://akihiko.shirai.as/projects/WiiRemote/)
+
+In [REALITY, Inc](https://reality.inc/), [representative of the metaverse industry in Japan](https://www.google.com/search?q=%E3%83%A1%E3%82%BF%E3%83%90%E3%83%BC%E3%82%B9&rlz=1C1GCEA_enJP946JP946&sxsrf=APq-WBvo0I_cAw-TlGHO2OEXSubTXb6TYw:1649263207297&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9tPKc8P_2AhXQdHAKHR-jCX8Q_AUoAnoECAIQBA&biw=1707&bih=802&dpr=1.13), he produces some visualizations of near-future user experiences using [REALITY.app](https://reality.app) in [UXDev projects on YouTube](https://vr.gree.net/lab/demo/uxdev/), and contributes to some PoC for B2B metaverse using [Mozilla Hubs with Japanese translation](https://github.com/gree/hubs-docs-jp) and community developments. 
+affiliate professor at the [Digital Hollywood University Graduate School](https://www.dhw.ac.jp/en/academics/). 
+Vice President of the [Society for Art and Science](https://art-science.org/). 
+Ambassador and board member of [Laval Virtual] (https://www.laval-virtual.com/).
+Latest book written: "[Collaborating with AI to become a Godhand Illustrator - How to comprehend Stable Diffusion](https://ivtv.page.link/ap)".
+His motto is "Creating people who create" (from his written book in [The Future of Game Design - Science in Entertainment Systems](https://bit.ly/mirainogame)).
+
+His latest interests in the "VR4.0 era", as he proposes, are the development of a multi-user avatar society called Metaverse, User Generated Content (UGC), Blockchain, and User Experience (UX) in AI, and in particular, his research on generative AI is presented to the general public in an easy-to-understand manner. In particular, the book "Collaborating with AI to become a Godhand Illustrator - How to comprehend Stable Diffusion" ([AIとコラボして神絵師になる 論文から読み解くStable Diffusion](https://ivtv.page.link/ap)) is a book that presents research on generative AI in an easy-to-understand manner for the general public. Diffusion was published within two months of its release and has received a great response from the community.
+
+
+Since 2023, He has continued to push the boundaries of AI metaverse and virtual reality entertainment. As the CEO of [AICU Inc.](https://aicu.ai/), he leads cutting-edge research and development initiatives aimed at revolutionizing the industry. He also serves as a Project Professor (特任教授) at Digital Hollywood University Graduate School.
+
+
+![Akihko SHIRAI in a manga](img/AkihikoSHIRAI-Manga.png)
+
+## 白井暁彦（Akihiko Shirai, PhD /しらいはかせ ）Profile in Japanese
+
+白井暁彦（しらい あきひこ, Akihiko SHIRAI, Ph.D）aka しらいはかせ(Hacker作家)
+デジタルハリウッド大学大学院 特任教授
+
+- Twitter[@o_ob](https://x.com/o_ob)
+- [Wantedly](https://www.wantedly.com/id/akihiko_shirai_phd)
+
+エンタメ・メタバース技術の研究開発に関わる研究者、ホワイトハッカー作家、米国スタートアップ「AICU Inc.」「Hidden Pixel Technology Inc.」のCEO。東京工芸大学写真工学科卒、同画像工学専攻修了。キヤノン株式会社とグループの研究所より生まれた英国・Criterion Software にて世界初の産業用ゲームエンジン「RenderWare」の普及開発に参加、その後、東京工業大学知能システム科学専攻に復学。博士学位後、NHK エンジニアリングサービス・次世代コンテント研究室、フランスに渡りENSAM 客員研究員、国際公募展Laval Virtual ReVolution の立ち上げ、日本科学未来館科学コミュニケーター神奈川工科大学情報メディア学科准教授を経て、2018 年よりデジタルハリウッド大学 大学院客員教授 およびグリー株式会社GREE VR Studio Laboratory Director。スマートフォン向けメタバース「REALITY」を開発・運用するREALITY 株式会社の立ち上げを通して、Virtual YouTuber などXR ライブエンタメ技術のR&D、国際発信など、メタバースエンタテイメントの未来開発や知財創出を中心に、自らエンタテイメントのライブプレイヤーとして世界に向けた開発・発信活動方法論化しながら世界中のエンタテインメント技術業界に数百人の規模でクリエイターを育成している。2023 年よりデジタルハリウッド大学発米国スタートアップ企業「AICU Inc.」CEO。生成AI 時代に「つくる人をつくる」をビジョンに英語、日本語、フランス語、プログラミング言語などでオープンな作家活動を続けている。日本バーチャルリアリティ学会IVRC 実行委員会委員。芸術科学会副会長。著書に『WiiRemote プログラミング』（オーム社）、『白井博士の未来のゲームデザイン - エンターテインメントシステムの科学-』（ワークスコーポレーション）、『AI とコラボして神絵師になる　論文から読み解くStable Diffusion』（インプレスR&D）他。
+
+## 白井暁彦氏 経歴 (年度、受賞、展示会など)
+
+**学歴**
+
+* **1996年:** 東京工芸大学 工学部 写真工学科 卒業
+* **1998年:** 東京工芸大学大学院 工学研究科 画像工学専攻 修了
+* **2003年:** 東京工業大学大学院 総合理工学研究科 知能システム科学専攻 博士後期課程修了、博士(工学)取得
+
+**職歴・活動歴**
+
+* **1998年 - 2001年:** キヤノン株式会社、クライテリオン・ソフトウェア社 (ゲーム開発コンサルタント)
+* **2003年 - 2004年:** 財団法人NHKエンジニアリングサービス 次世代コンテンツ研究室 (研究員)
+* **2004年 - 2007年:** フランス国立高等工芸学校 (ENSAM) 客員研究員
+* **2006年 - :** Laval Virtual ReVolution セッションオーガナイザー
+* **2007年 - 2010年:** 日本科学未来館 科学コミュニケーター、展示企画
+* **2010年 - 2018年:** 神奈川工科大学 情報学部 情報メディア学科 准教授
+* **2018年 - :** デジタルハリウッド大学大学院 客員教授
+* **2018年 - 2023年:** グリー株式会社 GREE VR Studio Laboratory Director (REALITY株式会社出向)
+* **2023年 - :** AICU Inc. CEO
+* **2023年 - :** デジタルハリウッド大学大学院 特任教授
+
+
+**受賞歴 (抜粋)**
+
+* **1997年:** 日本バーチャルリアリティ学会第2回大会にてFantastic Phantom Slipper初期型を発表
+* **2012年:** CEDEC AWARDS 2012 インタラクティブセッション大賞 (多重化隠蔽映像技術 Scritter)
+* **2012年:** ACM SIGGRAPH ASIA 2012 Emerging Technologies Prize (多重化隠蔽映像技術 Scritter)
+* **2013年:** 経産省 Innovative Technologies 2013 (2D+3D互換多重化ディスプレイシステム 2x3D)
+* **2014年:** CEDEC 2014 インタラクティブセッション3位 (多重化隠蔽映像技術 ExPixel)
+* **2015年:** Laval Virtual Award 2015 (多重化隠蔽映像技術 ExPixel FPGA)
+* **2015年:** ニコニコ超会議2015 第8回 ニコニコ学会β シンポジウム 金賞 (多重化隠蔽映像技術 ExPixel)
+* **2015年:** 指導学生が ACM Student Research Competition, Bronze Award を受賞 (多重化隠蔽映像技術 ExPixel 関連)
+* **2016年:** CEDEC 2016 インタラクティブセッション オーディエンス賞2位 (多重化多視点VRアーケードゲームシステム DUAL DUEL)
+* **2020年:** 共著論文が情報処理学会 研究報告 2020-MUS-103(6) 優秀賞を受賞
+* **2022年:** 共著論文が CyberWorlds 2022 Best short paper
+
+
+**主な著書**
+
+* **2009年:** WiiRemoteプログラミング (オーム社)
+* **2013年:** 白井博士の未来のゲームデザイン - エンターテインメントシステムの科学 - (ワークスコーポレーション)
+* **2022年:** AIとコラボして神絵師になる 論文から読み解くStable Diffusion (インプレスR&D)
+* **2024年:** 画像生成AI Stable Diffusion スタートガイド (SBクリエイティブ)
+
+
+
+
+### ショートプロフィール (2023/7)
+メタバース開発、VRエンタテインメントシステム、メディアアート研究、写真工学、画像工学を専門に画像生成の研究開発で30年近い経験を持つ博士(工学)。一般社団法人[芸術科学会](https://art-science.org/)副会長。[デジタルハリウッド大学大学院特任教授](https://akihiko.shirai.as/dhgs)。StableDiffusionのリリースから2ヵ月で2冊の書籍「[AIとコラボして神絵師になる](https://ivtv.page.link/aisd)」を執筆。インプレス「窓の杜」にて「[生成AIストリーム](https://forest.watch.impress.co.jp/docs/serial/aistream/index.html)」連載中。
+
+### 略歴
+VRエンタテイメントシステムの研究者。東京工芸大学工学部写真工学科卒、[工学研究科画像工学専攻修士課程修了](/PDF/9662005.pdf)。キヤノン、英国クライテリオン・ソフトウエア社で世界初の産業用ゲームエンジン開発に参加、ゲームの未来を変えるために2001年 東京工業大学大学院総合理工学研究科知能システム科学専攻博士後期課程に復学、2003年「VRエンタテイメントシステム」の研究で博士 (工学)の学位を取得。2003年-2004年に財団法人NHKエンジニアリングサービス・次世代コンテント研究室。2004年末にフランスに渡り、以来日仏のVR研究の架け橋となる。2007年より帰国し、日本科学未来館科学コミュニケーターを経て、神奈川工科大学 情報学部情報メディア学科 准教授。位置情報ゲームの活用や多重化映像システムなど幅広く研究。著書「白井博士の未来のゲームデザイン -エンターテインメントシステムの科学」他、MoguraVRにて「白井博士のVRおもしろ相談室」を連載。2018年6月1日よりグリー株式会社に入社。[GREE VR Studio Laboratory](https://vr.gree.net/lab) Directorを担当する。アバター駆動のメタバース、VRライブエンタテイメントを中心としたUX研究開発のリーダーとして、VRエンタテイメントシステムの研究開発・人材育成・発信活動、新しい世代のUXを開拓。ACM SIGRAPH, IEEE MetaCom, Laval Virtual, CEDECなどの国際的なインタラクティブ技術・UX研究の先端において常に最先端のUXを提案してきた。2023年よりデジタルハリウッド大学大学院にてラボプロジェクト「クリエイティブAIラボ」を主宰。生成AIとサービス開発における実験的な取り組みをより社会において実験する活動を推進している。
+
+### 受賞歴（抜粋）
+- Hello Tomorrow Global Summit Top 500 startups “Multiplex World Augmentation Display"
+- ACM SIGGRAPH ASIA 2012 Emerging Technologies Prize，
+- ACM Student Research Competition, Bronze Award, Laval Virtual Award 2015，
+- 経産省Innovative Technologies 2013受賞（「2x3D」2D+3D互換の多重化ディスプレイシステム），CEDEC2012 インタラクティブセッション大賞，- CEDEC2014 インタラクティブセッション3位，CEDEC2016 インタラクティブセッション「オーディエンス賞」2位，ニコニコ超会議2015「第8回 ニコニコ学会β シンポジウム」（来場者15万人）にて会場投票で1位となる金賞を受賞, 他．
 
 
 ### Media presences 
