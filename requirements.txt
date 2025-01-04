@@ -6,3 +6,4 @@ python-markdown-math
 fontawesome_markdown
 mdx_unimoji
 pymdown-extensions
+mkdocs-rss-plugin
