@@ -39,15 +39,14 @@ nav:
   - 白井暁彦: index.md
   - Blog: blog/index.md
   - research.md
- # - Papers  - Social  - Blogs | Lab | Deck | Gallery | GitHub
   - books.md
   - material.md
   - cv.md
   - section1:
-      section1-1: 
-        section1-1-1:           sample_page.md
-      section1-2: 
-        section1-2-1:          sample_page.md
+    - section1-1:
+        - section1-1-1: sample_page.md
+    - section1-2:
+        - section1-2-1: sample_page.md
 #  - extentions.md
 
 plugins:
@@ -61,6 +60,7 @@ plugins:
 #    case: lower
   tags:
   rss:
+  social:
 
 
 extra:
@@ -89,12 +89,16 @@ extra:
       link: https://github.com/kaitas/2025
   generator: false
 
-#extra_javascript: 
+extra_javascript: 
+  - javascripts/github-calendar.min.js
+  - https://platform.twitter.com/widgets.js
+  - js/custom_twitter.js
 #  - js/mathjax.js
 #  - https://polyfill.io/v3/polyfill.min.js?features=es6
 #  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   
 extra_css:
+  - stylesheets/github-calendar-responsive.css
   - stylesheets/extra.css # https://squidfunk.github.io/mkdocs-material/customization/#additional-css
   - https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 

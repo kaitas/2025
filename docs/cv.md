@@ -5,7 +5,7 @@ draft: false
 
 ### Creator{Author/CEO/Researcher} of Entertainment System
 
-![Akihko SHIRAI in GREE VR Studio Laboratory](img/202111-avatars.png)
+![Akihko SHIRAI in GREE VR Studio Laboratory](https://akihiko.shirai.as/img/202111-avatars.png)
 
 AKIHIKO SHIRAI, Ph.D. (Engineering), is a creator of AI metaverse and entertainment virtual reality. He is currently the CEO of [AICU Inc.](https://corp.aicu.ai/) and an affiliate professor of Digital Hollywood University Graduate School.
 

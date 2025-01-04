@@ -9,3 +9,6 @@ categories:
 
 ## Creator{Author/CEO/Researcher} of Entertainment System
 
+![](https://akihiko.shirai.as/img/202111-avatars.png)
+
+![](https://akihiko.shirai.as/img/VRStudioLab.jpg)
