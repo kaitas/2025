@@ -103,6 +103,7 @@ extra_css:
   - https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
 
 markdown_extensions:
+  - meta
   - toc:
       permalink: true
   - admonition
@@ -129,3 +130,4 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.details
+  
