@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# MkDocsへようこそ
+# MkDocs Material Tips
 
 完全なドキュメントは[mkdocs.org](http://mkdocs.org)にあります.
 
@@ -19,3 +19,7 @@ comments: true
     docs/
         index.md  # ホームページ
         ...       # それ以外のページ
+
+## Twitter Card
+
+https://kojion.github.io/chess/mkdocs/006/
