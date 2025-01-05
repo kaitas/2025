@@ -31,12 +31,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // /status/ を含むURLのみを対象とする
       if (link.href.includes('/status/')) {
+          // 新しい p 要素を作成
+          var p = document.createElement('p');
+
+          // blockquote 要素を作成
           var blockquote = document.createElement('blockquote');
           blockquote.className = 'twitter-tweet';
-          var a = document.createElement('a');
-          a.href = link.href;
-          blockquote.appendChild(a);
-          link.parentNode.replaceChild(blockquote, link);
+
+          // 新しい a 要素を blockquote のために作成
+          var blockquoteLink = document.createElement('a');
+          blockquoteLink.href = link.href;
+          blockquote.appendChild(blockquoteLink);
+          
+          // 元のリンクを p 要素でラップ
+          link.parentNode.insertBefore(p, link);
+          p.appendChild(link);
+
+          // p 要素の直後に blockquote を挿入
+          p.parentNode.insertBefore(blockquote, p.nextSibling);
       }
   }
 
@@ -45,4 +57,3 @@ document.addEventListener('DOMContentLoaded', function() {
       twttr.widgets.load();
   });
 });
-
