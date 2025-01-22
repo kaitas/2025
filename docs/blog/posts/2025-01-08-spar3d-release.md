@@ -1,7 +1,6 @@
 ---
 date: 2025-01-08
 category:
- - Tech
  - stability-ai
  - art
  - generativeai

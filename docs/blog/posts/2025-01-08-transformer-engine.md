@@ -1,8 +1,7 @@
 ---
 date: 2025-01-08
 category:
- - Tech
- - Nbidia
+ - Nvidia
 description: Transformer Engine 解説
 ---
 # そもそも Tranaformer Engine とは何か
