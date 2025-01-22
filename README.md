@@ -16,7 +16,8 @@ alias pip='pip3'
 
 ```
 pip install mkdocs
-mkdocs new cleantted_action_test
+(mkdocs new test)
+pip install mkdocs-material
 mkdocs serve
 ```
 
