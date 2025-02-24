@@ -1,17 +1,11 @@
 ---
 draft: true 
-date: 2025-01-01
+date: 2025-02-24
 categories:
-  - Hello
-  - World
+  - Akihiko SHIRAI
+  - Profile
 ---
-# Akihiko SHIRAI, Ph.D - CEO of AICU Inc.
-
-## Creator{Author/CEO/Researcher} of Entertainment System
-
-![](https://akihiko.shirai.as/img/202111-avatars.png)
-
-![](https://akihiko.shirai.as/img/VRStudioLab.jpg)
+# Akihiko SHIRAI, Ph.D - CEO of AICU group
 
 
 ## Akihiko SHIRAI, Ph.D. - CEO of AICU Inc.
@@ -37,8 +31,6 @@ Dr. Shirai is the author of numerous books, including "The Future of Game Design
 ## 白井暁彦博士 - AICU Inc. CEO
 
 ### エンターテインメントシステムのクリエイター {作家 / CEO / 研究者}
-
-![白井暁彦 (GREE VR Studio Laboratory, 2021)](img/202111-avatars.png)
 
 工学博士、白井暁彦。AIメタバースとエンターテインメントVR専門の研究者。多作なクリエイター。[AICU Inc.](https://corp.aicu.ai/) CEO。デジタルハリウッド大学大学院 特任教授、[クリエイティブAIラボ](https://akihiko.shirai.as/dhgs)主宰。
 
