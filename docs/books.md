@@ -5,7 +5,8 @@ comments: true
 
 # 著書 Books
 
-1. [画像生成AI Stable Diffusion スタートガイド](https://j.aicu.ai/SBXL)
+1. [画像・動画生成AI　ComfyUI マスターガイド](https://j.aicu.ai/comfysb)
+2.  [画像生成AI Stable Diffusion スタートガイド](https://j.aicu.ai/SBXL)
 1. [AIとコラボして神絵師になる 論文から読み解くStable Diffusion](https://ivtv.page.link/ap) 
 1. [白井博士の未来のゲームデザイン ―エンターテインメントシステムの科学―](http://aki.shirai.as/entsys/)
 1. [WiiRemote プログラミング](http://akihiko.shirai.as/projects/WiiRemote/)
